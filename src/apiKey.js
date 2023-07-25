@@ -1,0 +1,1 @@
+module.exports = 'senhaDesafio02090401'
